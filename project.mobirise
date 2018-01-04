@@ -36,7 +36,9 @@
         "#ff3000",
         "#92ff34"
       ]
-    }
+    },
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "news.html": {
