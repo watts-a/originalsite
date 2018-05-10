@@ -4948,7 +4948,9 @@ body {
   }
 }
 .cid-qChFTRNH2b {
-  background-image: url("../../../assets/images/shop-image-bigger-1920x10802.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-2-1618x1080.jpg");
 }
 .cid-qChFTRNH2b H1 {
   color: #ffffff;
@@ -5252,6 +5254,9 @@ body {
 }
 .cid-qQZuURMarg .btn-social {
   border: none !important;
+}
+.cid-qQZuURMarg .btn-social {
+  border-radius: 0 !important;
 }
 .cid-qQZuURMarg [class^="socicon-"]:before,
 .cid-qQZuURMarg [class*=" socicon-"]:before {
