@@ -14,7 +14,7 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "/site/images/android-chrome-192x192.png",
+            "src": "android-chrome-192x192.png",
             "type": "image/png",
             "sizes": "192x192"
         }
