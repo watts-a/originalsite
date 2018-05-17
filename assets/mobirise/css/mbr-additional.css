@@ -4158,6 +4158,21 @@ body {
 .cid-qRzXtkLSFY .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qSjeug5f1G {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qSjeug5f1G .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qSjeug5f1G .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qCWQSWkanB {
   padding-top: 60px;
   padding-bottom: 60px;
