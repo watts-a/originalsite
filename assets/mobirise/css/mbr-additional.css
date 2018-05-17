@@ -4161,7 +4161,7 @@ body {
 .cid-qSjeug5f1G {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
+  background-image: url("../../../assets/images/homepageuneditedwww.coes.co.ukslashbrandedcontemporarymens-1300x700.jpg");
 }
 @media (min-width: 992px) {
   .cid-qSjeug5f1G .mbr-figure {
@@ -4172,6 +4172,18 @@ body {
   .cid-qSjeug5f1G .mbr-figure {
     padding-top: 3rem;
   }
+}
+.cid-qSjeug5f1G .mbr-text,
+.cid-qSjeug5f1G .mbr-section-btn {
+  color: #408565;
+  text-align: right;
+}
+.cid-qSjeug5f1G .mbr-section-title I {
+  color: #ff3000;
+}
+.cid-qSjeug5f1G .mbr-text,
+.cid-qSjeug5f1G .mbr-section-btn B {
+  color: #ff3000;
 }
 .cid-qCWQSWkanB {
   padding-top: 60px;
