@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "The Ultranatra Network",
+    "scope": "/site/",
+    "display": "browser",
+    "start_url": "https://watts-a.github.io/site/",
+    "short_name": "Ultranatra",
+    "theme_color": "transparent",
+    "description": "Clothing for the Bold and Beautiful",
+    "orientation": "portrait",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
